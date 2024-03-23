@@ -1,0 +1,11 @@
+D:\khushal\abc\abc\bin\Debug\abc.exe.config
+D:\khushal\abc\abc\bin\Debug\vikram.mdf
+D:\khushal\abc\abc\bin\Debug\vikram_log.ldf
+D:\khushal\abc\abc\bin\Debug\abc.exe
+D:\khushal\abc\abc\bin\Debug\abc.pdb
+D:\khushal\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+D:\khushal\abc\abc\obj\Debug\abc.Form1.resources
+D:\khushal\abc\abc\obj\Debug\abc.Properties.Resources.resources
+D:\khushal\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+D:\khushal\abc\abc\obj\Debug\abc.exe
+D:\khushal\abc\abc\obj\Debug\abc.pdb
